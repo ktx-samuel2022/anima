@@ -1,0 +1,21 @@
+.header{
+    background-image: linear-gradient(#a0f689,#48f52a,#2af58e,#a0f689);
+}
+.main{
+    width: 1500px;
+    height: 600px;
+}
+.footer{
+    background-image: linear-gradient(#a0f689,#48f52a,#2af58e,#a0f689);
+    position: fixed;
+    bottom: 0;
+    font-size: 18px;
+    text-shadow: -20px 2px 10px green;
+    text-align: center;
+    width:100%;
+    padding: 20px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
